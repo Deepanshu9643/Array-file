@@ -1,4 +1,4 @@
-/* @format */
+/** @format */
 
 let arr = [
   { id: 1, name: "john", age: "18", profession: "developer" },
